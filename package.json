@@ -1,6 +1,6 @@
 {
     "title": "Landing Page",
-    "name": "startbootstrap-landing-page",
+    "name": "startbootstrap-landing-pag",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
